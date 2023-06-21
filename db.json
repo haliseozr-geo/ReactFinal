@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 3,
+      "productName": "Bohemian Rhapsody",
+      "image": "images/img1.jpg",
+      "music": "queen.mp3",
+      "desc": "Queen",
+      "price": "20"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "productName": "Imagine",
+      "image": "images/img2.jpg",
+      "music": "imagine.mp3",
+      "desc": "John Lennon",
+      "price": "50"
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "productName": "Hotel California",
+      "image": "images/img3.jpg",
+      "music": "hotel.mp3",
+      "desc": "Eagles",
+      "price": "200"
+    },
+    {
+      "id": 5,
+      "categoryId": 5,
+      "productName": "Golha",
+      "image": "images/img4.jpg",
+      "music": "Golha.mp3",
+      "desc": "Farid Farjad",
+      "price": "85"
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "productName": "Something InThe Way",
+      "image": "images/img5.jpg",
+      "music": "something.mp3",
+      "desc": "Nirvana",
+      "price": "140"
+    },
+    {
+      "id": 7,
+      "categoryId": 3,
+      "productName": "Ben Seni Ararken",
+      "image": "images/img6.jpg",
+      "music": "ararken.mp3",
+      "desc": "Virane",
+      "price": "75"
+    },
+    {
+      "id": 8,
+      "categoryId": 3,
+      "productName": "Animal",
+      "image": "images/img7.jpg",
+      "music": "animal.mp3",
+      "desc": "Jim Yosef",
+      "price": "165"
+    },
+    {
+      "id": 9,
+      "categoryId": 4,
+      "productName": "Gorillaz",
+      "image": "images/img8.jpg",
+      "music": "gorillaz.mp3",
+      "desc": "Feel Good",
+      "price": "350"
+    },
+    {
+      "id": 10,
+      "categoryId": 6,
+      "productName": "Experience",
+      "image": "images/img9.jpg",
+      "music": "experience.mp3",
+      "desc": "Ludovico Einaudi",
+      "price": "350"
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "What a Wonderful World",
+      "image": "images/img10.jpg",
+      "music": "armstrong.mp3",
+      "desc": "Louis Armstrong",
+      "price": "350"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Jazz"
+    },
+    {
+      "id": 2,
+      "categoryName": "Pop"
+    },
+    {
+      "id": 3,
+      "categoryName": "Rock"
+    },
+    {
+      "id": 4,
+      "categoryName": "Hip-hop"
+    },
+    {
+      "id": 5,
+      "categoryName": "Blues"
+    },
+    {
+      "id": 6,
+      "categoryName": "Classical music"
+    }
+  ],
+  "playlist": [
+    {
+      "id": 1,
+      "song_id": 1,
+      "userid": 1
+    },
+    {
+      "id": 2,
+      "song_id": 3,
+      "userid": 3
+    },
+    {
+      "id": 3,
+      "song_id": 3,
+      "userid": 2
+    }
+  ]
+}
